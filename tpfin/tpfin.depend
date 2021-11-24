@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637705771 source:c:\users\flia-miguel\desktop\tpfin\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<windows.h>
+
+1637706275 c:\users\flia-miguel\desktop\tpfin\funciones.h
+
+1637706275 source:c:\users\flia-miguel\desktop\tpfin\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<windows.h>
+	<string.h>
+
