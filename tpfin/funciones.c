@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include"funciones.h"
 #include<windows.h>
-
+# incluye < string.h >
 
 void saludo1(){
     system ("color 3");
